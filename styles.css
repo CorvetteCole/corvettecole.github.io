@@ -103,25 +103,13 @@
   padding-bottom: 0;
 }
 
-.site-blog-card-full-bg {
-  background: url(images/example-blog03.jpg) center / cover;
-}
-
-.site-blog-card-event-bg {
-  background: url(images/example-blog05.jpg) center / cover;
-}
-
-.site-blog-card-strip-bg {
-  background: url(images/example-blog06.jpg) center / cover;
-}
-
 .site-blog-card-compact .mdl-card__title {
   padding-bottom: 0;
 }
 
 .site-blog-card-bg > .mdl-card__actions {
-  height: 52px;
-  padding: 16px;
+  height: 10px;
+
   background: rgba(0, 0, 0, 0.2);
 }
 
